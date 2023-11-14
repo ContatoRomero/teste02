@@ -1,0 +1,164 @@
+*{
+    margin: 0px;
+}
+
+h1{
+    text-align: center;
+    font-weight: 500;
+}
+.menu{
+    width: 100%;
+    height: 60vh;
+    position: absolute;
+    top: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
+
+
+.bancoimg1{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.paisagem1{
+    position: absolute;
+    top: 10vh;
+}
+
+.experience{
+    position: absolute;
+    top: 50vh;
+    width: 100%;
+    height: 40vh;   
+    text-align: center;
+}
+.txt_title{
+    font-weight: bolder;
+    font-size: 20px;
+}
+.mobility{
+    position: absolute;
+    top: 93vh;
+    width: 100%;
+    height: 40vh;   
+    text-align: center;
+}
+.portfolio_title{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+h3{
+    font-weight: 500;
+}
+.container_planes{
+    width: 87%;
+    height: 70vh;
+    position: absolute;
+    top: 80vh;
+    left: 7%;
+    right: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+h4{
+    text-align: center;
+}
+
+.container_planes2{
+    width: 87%;
+    height: 70vh;
+    position: absolute;
+    top: 110vh;
+    left: 10%;
+    right: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.title_team{
+    position: absolute;
+    top: 164vh;
+    width: 100%;
+    height: 30vh;   
+    text-align: center;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.team_back{
+    position: absolute;
+    top: 166vh;
+    width: 100%;
+    height: 45vh;
+    background-color: rgb(0, 255, 217);   
+    position: relative;
+}
+
+.org_team{
+    width: 100%;
+    height: 27vh;  
+    display: flex;
+    gap: 3%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text_teams{
+    position: absolute;
+    top: 202vh;
+    width: 100%;
+    height: 10vh;
+    background-color: rgb(0, 255, 217);   
+    font-size: 25px;
+    display: flex;
+    gap: 12%;
+    justify-content: center;
+    align-items: center;
+}
+
+.last_container{
+    position: absolute;
+    top: 165vh;
+    width: 100%;
+    height: 30vh;   
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.last_1{
+    position: absolute;
+    font-weight: bolder;
+    top: 4vh;
+    text-align: center;
+    font-size: 25px;
+}
+.last_2{
+    position: absolute;
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    top: 15vh;
+    text-align: center;
+    font-size: 20px;
+}
+.last_3{
+    position: absolute;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    top: 25vh;
+    text-align: center;
+    font-size: 20px;
+}
